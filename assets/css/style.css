@@ -435,7 +435,7 @@ pre code { font-size: 15px !important; }
 
 .site-title, .site-title:visited { color: #fafbfc; }
 
-.site-nav .page-link { display: inline; padding: 0; margin-left: auto; color: #fafbfc; line-height: 1.5; }
+.page-link, .page-link:visited { color: #fafbfc; }
 
 .post img { display: block; width: 10%; height: 10%; object-fit: contain; }
 
