@@ -20,12 +20,9 @@
     padding: 0px 0;
     flex: 1 0 auto;
 }
- .site-nav {
+ .site-nav, .page-link {
     color: #fafbfc;
-    line-height: 1.5;
-    display: block;
-    padding: 5px 10px;
-    margin-left: 20px;
+
 }
 .site-title, .site-title:visited {
     color: #fafbfc;
