@@ -24,8 +24,12 @@
 .site-title, .site-title:visited {
     color: #fafbfc;
 }
-.page-link {
+.site-nav .page-link {
+    display: inline;
+    padding: 0;
+    margin-left: auto;
     color: #fafbfc;
+    line-height: 1.5;
 }
 .post img {
         display: block;
