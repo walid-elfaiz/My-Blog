@@ -6,6 +6,14 @@
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+.site-header {
+  border-top: 100px solid $border-color-03;
+  border-bottom: 1px solid $border-color-01;
+  min-height: $spacing-unit * 1.865;
+  line-height: $base-line-height * $base-font-size * 2.25;
 
+  // Positioning context for the mobile navigation icon
+  position: relative;
+}
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
