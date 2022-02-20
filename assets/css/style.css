@@ -433,9 +433,9 @@ pre code { font-size: 15px !important; }
 
 .page-content { padding: 0px 0; flex: 1 0 auto; }
 
-.page-link { color: #fafbfc; display: inline; padding: 0; margin-left: auto; line-height: 1.5; }
+.site -nav .page-link { color: #fafbfc; display: inline; padding: 0; margin-left: auto; line-height: 1.5; }
 
--site-nav { color: #fafbfc; }
+.site-nav { color: #fafbfc; }
 
 .site-title, .site-title:visited { color: #fafbfc; }
 
