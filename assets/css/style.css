@@ -433,6 +433,8 @@ pre code { font-size: 15px !important; }
 
 .page-content { padding: 0px 0; flex: 1 0 auto; }
 
+.site-nav .page-link { color: #fafbfc; }
+
 .site-title, .site-title:visited { color: #fafbfc; }
 
 .post img { display: block; width: 10%; height: 10%; object-fit: contain; }
