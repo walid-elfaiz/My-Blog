@@ -11,9 +11,13 @@
   border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
-  background:url("images/diagram.png");
+  background:url('https://png.pngtree.com/thumb_back/fw800/background/20190828/pngtree-high-tech-molecular-structure-hexagonal-link-medical-image_309769.jpg');
   // Positioning context for the mobile navigation icon
   position: relative;
+}
+.page-content {
+    padding: 0px 0;
+    flex: 1 0 auto;
 }
 .post img {
         display: block;
