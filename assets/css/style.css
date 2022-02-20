@@ -433,6 +433,10 @@ pre code { font-size: 15px !important; }
 
 .page-content { padding: 0px 0; flex: 1 0 auto; }
 
+.site-nav .page-link { color: #fafbfc; line-height: 1.5; display: block; padding: 5px 10px; margin-left: 20px; }
+
+.site-title, .site-title:visited { color: #fafbfc; }
+
 .post img { display: block; width: 10%; height: 10%; object-fit: contain; }
 
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
