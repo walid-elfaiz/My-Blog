@@ -15,5 +15,16 @@
   // Positioning context for the mobile navigation icon
   position: relative;
 }
+.post img {
+        display: block;
+        // border:1px solid #021a40;
+        //vertical-align: top;
+        //margin-left: 0px;
+        //margin-right: Opx;
+        width: 10%;
+        height: 10%; 
+        object-fit: contain;
+             
+}
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
