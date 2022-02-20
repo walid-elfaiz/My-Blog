@@ -323,7 +323,7 @@ table td { border: 1px solid #e8e8e8; }
 
 /*-----------------------------------*/
 /*--- IMPORT STYLES FOR FASTPAGES ---*/
-.post img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.post img { display: block; width: 10%; height: 10%; object-fit: contain; }
 
 img.emoji { display: inline !important; vertical-align: baseline !important; }
 
